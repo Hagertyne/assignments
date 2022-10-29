@@ -1,8 +1,8 @@
 # assignments
 
-Hi, Hagernesh Tadesse ! 👋
+Hi, I am Hagernesh Tadesse ! 👋
 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer and Student at Zuri
 
 Weeks Five Git and Github Tasks
 
